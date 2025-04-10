@@ -15,7 +15,7 @@ This is an Augmented Reality (AR) application developed using **Unity** and **AR
 
 - Unity (Version 2019)
 - AR Foundation
-- ARCore / ARKit (platform dependent)
+- ARCore / ARKit (platform dependent)  
 
 ## 📲 How to Run
 
